@@ -1,0 +1,16 @@
+.cover-friends-list .cover-friend-item:hover {
+  background-color: rgb(114, 114, 114);
+}
+
+.cover-friends-list .search-icon {
+  font-size: 20px;
+  color: aliceblue;
+}
+
+.search-input label {
+  color: #fff;
+}
+
+.search-input input:focus .css-1mzstnb {
+  align-items: baseline;
+}

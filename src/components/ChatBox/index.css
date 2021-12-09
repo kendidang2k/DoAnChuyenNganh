@@ -1,0 +1,7 @@
+.chat-box-content {
+  height: calc(100vh - 60px - 100px);
+}
+
+.cover-box-content:hover {
+  overflow-y: overlay;
+}
